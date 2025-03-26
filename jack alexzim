@@ -1,0 +1,11 @@
+ <!DOCTYPE html>
+<html>
+<head>
+  <title>Meta Tag Example</title>
+  <meta charset="UTF-8">
+  <meta name="description" content="Example meta description">
+</head>
+<body>
+  <p>Content of the page.</p>
+</body>
+</html>
